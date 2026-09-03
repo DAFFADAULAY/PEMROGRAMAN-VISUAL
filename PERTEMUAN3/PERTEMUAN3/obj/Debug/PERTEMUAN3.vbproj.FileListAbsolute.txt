@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\PERTEMUAN3\PERTEMUAN3\bin\Debug\PERTEMUAN3.exe.config
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\PERTEMUAN3\PERTEMUAN3\bin\Debug\PERTEMUAN3.exe
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\PERTEMUAN3\PERTEMUAN3\bin\Debug\PERTEMUAN3.pdb
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\PERTEMUAN3\PERTEMUAN3\bin\Debug\PERTEMUAN3.xml
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\PERTEMUAN3\PERTEMUAN3\obj\Debug\PERTEMUAN3.vbproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\PERTEMUAN3\PERTEMUAN3\obj\Debug\PERTEMUAN3.Form1.resources
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\PERTEMUAN3\PERTEMUAN3\obj\Debug\PERTEMUAN3.Resources.resources
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\PERTEMUAN3\PERTEMUAN3\obj\Debug\PERTEMUAN3.vbproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\PERTEMUAN3\PERTEMUAN3\obj\Debug\PERTEMUAN3.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\PERTEMUAN3\PERTEMUAN3\obj\Debug\PERTEMUAN3.exe
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\PERTEMUAN3\PERTEMUAN3\obj\Debug\PERTEMUAN3.xml
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\PERTEMUAN3\PERTEMUAN3\obj\Debug\PERTEMUAN3.pdb
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\PERTEMUAN3\PERTEMUAN3\bin\Debug\Assets\1.jpeg
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\PERTEMUAN3\PERTEMUAN3\bin\Debug\Assets\2.jpeg
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\PERTEMUAN3\PERTEMUAN3\bin\Debug\Assets\3.jpeg
