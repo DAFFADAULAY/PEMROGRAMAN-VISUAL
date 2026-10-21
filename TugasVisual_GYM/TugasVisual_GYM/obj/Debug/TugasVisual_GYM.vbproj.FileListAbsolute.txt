@@ -1,0 +1,12 @@
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\TugasVisual_GYM\TugasVisual_GYM\bin\Debug\TugasVisual_GYM.exe.config
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\TugasVisual_GYM\TugasVisual_GYM\bin\Debug\TugasVisual_GYM.exe
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\TugasVisual_GYM\TugasVisual_GYM\bin\Debug\TugasVisual_GYM.pdb
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\TugasVisual_GYM\TugasVisual_GYM\bin\Debug\TugasVisual_GYM.xml
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\TugasVisual_GYM\TugasVisual_GYM\obj\Debug\TugasVisual_GYM.vbproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\TugasVisual_GYM\TugasVisual_GYM\obj\Debug\TugasVisual_GYM.Form1.resources
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\TugasVisual_GYM\TugasVisual_GYM\obj\Debug\TugasVisual_GYM.Resources.resources
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\TugasVisual_GYM\TugasVisual_GYM\obj\Debug\TugasVisual_GYM.vbproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\TugasVisual_GYM\TugasVisual_GYM\obj\Debug\TugasVisual_GYM.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\TugasVisual_GYM\TugasVisual_GYM\obj\Debug\TugasVisual_GYM.exe
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\TugasVisual_GYM\TugasVisual_GYM\obj\Debug\TugasVisual_GYM.xml
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\TugasVisual_GYM\TugasVisual_GYM\obj\Debug\TugasVisual_GYM.pdb
