@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>InventarisBuku</RootNamespace>
+    <AssemblyName>InventarisBuku</AssemblyName>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>On</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+
+</Project>
