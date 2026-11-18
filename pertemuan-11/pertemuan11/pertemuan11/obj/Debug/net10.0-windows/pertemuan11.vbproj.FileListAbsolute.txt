@@ -1,0 +1,17 @@
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-11\pertemuan11\pertemuan11\bin\Debug\net10.0-windows\pertemuan11.exe
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-11\pertemuan11\pertemuan11\bin\Debug\net10.0-windows\pertemuan11.deps.json
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-11\pertemuan11\pertemuan11\bin\Debug\net10.0-windows\pertemuan11.runtimeconfig.json
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-11\pertemuan11\pertemuan11\bin\Debug\net10.0-windows\pertemuan11.dll
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-11\pertemuan11\pertemuan11\bin\Debug\net10.0-windows\pertemuan11.pdb
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-11\pertemuan11\pertemuan11\obj\Debug\net10.0-windows\pertemuan11.Form1.resources
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-11\pertemuan11\pertemuan11\obj\Debug\net10.0-windows\pertemuan11.vbproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-11\pertemuan11\pertemuan11\obj\Debug\net10.0-windows\pertemuan11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-11\pertemuan11\pertemuan11\obj\Debug\net10.0-windows\pertemuan11.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-11\pertemuan11\pertemuan11\obj\Debug\net10.0-windows\pertemuan11.AssemblyInfo.vb
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-11\pertemuan11\pertemuan11\obj\Debug\net10.0-windows\pertemuan11.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-11\pertemuan11\pertemuan11\obj\Debug\net10.0-windows\pertemuan11.dll
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-11\pertemuan11\pertemuan11\obj\Debug\net10.0-windows\refint\pertemuan11.dll
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-11\pertemuan11\pertemuan11\obj\Debug\net10.0-windows\pertemuan11.pdb
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-11\pertemuan11\pertemuan11\obj\Debug\net10.0-windows\pertemuan11.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-11\pertemuan11\pertemuan11\obj\Debug\net10.0-windows\ref\pertemuan11.dll
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-11\pertemuan11\pertemuan11\obj\Debug\net10.0-windows\pertemua.FABBE2C6.Up2Date
