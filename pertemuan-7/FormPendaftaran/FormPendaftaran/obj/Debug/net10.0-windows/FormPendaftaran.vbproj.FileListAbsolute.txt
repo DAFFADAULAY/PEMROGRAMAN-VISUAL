@@ -1,0 +1,17 @@
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-7\FormPendaftaran\FormPendaftaran\bin\Debug\net10.0-windows\FormPendaftaran.exe
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-7\FormPendaftaran\FormPendaftaran\bin\Debug\net10.0-windows\FormPendaftaran.deps.json
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-7\FormPendaftaran\FormPendaftaran\bin\Debug\net10.0-windows\FormPendaftaran.runtimeconfig.json
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-7\FormPendaftaran\FormPendaftaran\bin\Debug\net10.0-windows\FormPendaftaran.dll
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-7\FormPendaftaran\FormPendaftaran\bin\Debug\net10.0-windows\FormPendaftaran.pdb
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-7\FormPendaftaran\FormPendaftaran\obj\Debug\net10.0-windows\FormPendaftaran.FrmUjiKonversi.resources
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-7\FormPendaftaran\FormPendaftaran\obj\Debug\net10.0-windows\FormPendaftaran.FrmUtama.resources
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-7\FormPendaftaran\FormPendaftaran\obj\Debug\net10.0-windows\FormPendaftaran.vbproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-7\FormPendaftaran\FormPendaftaran\obj\Debug\net10.0-windows\FormPendaftaran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-7\FormPendaftaran\FormPendaftaran\obj\Debug\net10.0-windows\FormPendaftaran.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-7\FormPendaftaran\FormPendaftaran\obj\Debug\net10.0-windows\FormPendaftaran.AssemblyInfo.vb
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-7\FormPendaftaran\FormPendaftaran\obj\Debug\net10.0-windows\FormPendaftaran.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-7\FormPendaftaran\FormPendaftaran\obj\Debug\net10.0-windows\FormPendaftaran.dll
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-7\FormPendaftaran\FormPendaftaran\obj\Debug\net10.0-windows\refint\FormPendaftaran.dll
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-7\FormPendaftaran\FormPendaftaran\obj\Debug\net10.0-windows\FormPendaftaran.pdb
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-7\FormPendaftaran\FormPendaftaran\obj\Debug\net10.0-windows\FormPendaftaran.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\文档\pemrograman-visual\pertemuan-7\FormPendaftaran\FormPendaftaran\obj\Debug\net10.0-windows\ref\FormPendaftaran.dll
